@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# do it here
+echo '     ___'
+echo '    /   \'
+echo '    |___|'
+echo '    \___/'
+echo ' ___|   |___'
+echo '/    \__/   \ '
+echo '|  /      \  |'
+echo '|  |      |  |'
+echo '\  \     /  / '
+echo ' \  \   /  /'
+echo '  \  \ /  / '
+echo ' / \  |  / \'
+echo '/   \/\/    \'
+echo '|   /  \    |'
+echo 'DO IT! Dont let your dreams be dreams! JUST DO IT'!
